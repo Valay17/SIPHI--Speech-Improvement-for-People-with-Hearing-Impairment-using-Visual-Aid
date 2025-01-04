@@ -142,12 +142,10 @@ For the current release, you can use the following login credentials to access t
 - **Password**: valay  
 
 ## **Contributors**
-
 This project was successfully prototyped in collaboration with:
-
-- [@SinghAnuj29] (https://www.github.com/SinghAnuj29)
-- [@VaibhavNohwar01] (https://www.github.com/VaibhavNohwar01)
-- [@HetDave0005] (https://www.github.com/HetDave0005)
+- <a href="https://www.github.com/SinghAnuj29" target="_blank">@SinghAnuj29</a>
+- <a href="https://www.github.com/VaibhavNohwar01" target="_blank">@VaibhavNohwar01</a>
+- <a href="https://www.github.com/HetDave0005" target="_blank">@HetDave0005</a>
 
 ## **License**
 
