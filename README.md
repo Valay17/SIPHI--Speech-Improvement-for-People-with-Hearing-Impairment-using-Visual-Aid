@@ -99,7 +99,7 @@ Before you begin, ensure that you have the following software installed:
 
 ### **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/SIPHI
+https://github.com/Valay17/SIPHI--Speech-Improvement-for-People-with-Hearing-Impairment-using-Visual-Aid.git
 ```
 ### **Open the project in Android Studio**
 1. Launch Android Studio.
