@@ -145,9 +145,9 @@ For the current release, you can use the following login credentials to access t
 
 This project was successfully prototyped in collaboration with:
 
-- **User1**
-- **User2**
-- **User2**
+- [@SinghAnuj29] (https://www.github.com/SinghAnuj29)
+- [@VaibhavNohwar01] (https://www.github.com/VaibhavNohwar01)
+- [@HetDave0005] (https://www.github.com/HetDave0005)
 
 ## **License**
 
